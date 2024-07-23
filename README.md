@@ -6,16 +6,15 @@ I'm skilled in:
 - **Python**
 - **Power BI**
 - **SQL**
+- **Machine Learning**
 - **Excel**
+
 
 
 All of my projects are available at [my portfolio](https://github.com/RubyaAfrin?tab=repositories).
 
 - 🔭 I’m currently working on Machine Learning Projects with Data Visualization Tools
 - 🌱 I’m currently learning new Data Analytics Skills
-  
-## Looking for Job Opportunities 💼🔍
-I'm currently open to new opportunities in the field of data analysis. Feel free to reach out!
 
 
 ## 📫 How to reach me
