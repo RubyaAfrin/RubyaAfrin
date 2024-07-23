@@ -24,7 +24,7 @@ All of my projects are available at [my portfolio](https://github.com/RubyaAfrin
 I'm a Software Engineer turned Data Enthusiast. Once fueled hardware, now fueling data analysis!
 
 ## Connect with me
-[LinkedIn](https://www.linkedin.com/in/rubyaafrin/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubyaafrin/) 
 
 
 
