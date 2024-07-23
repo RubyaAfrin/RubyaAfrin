@@ -1,4 +1,3 @@
-![Untitled design (12)](https://github.com/RubyaAfrin/RubyaAfrin/blob/main/aa.png)
 <h2 align="center">Hi 👋, I'm Rubya Afrin</h2>
 <h3 align="center">Passionate Data Analyst | Exploring the World of Data</h3>
 
