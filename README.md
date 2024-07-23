@@ -20,7 +20,7 @@ All of my projects are available at [my portfolio](https://github.com/RubyaAfrin
 **Email**: afrin.ku11@gmail.com
 
 ## ⚡ Fun fact
-I'm a Software Engineer turned Data Enthusiast. Once fueled hardware, now fueling data analysis!
+I love to play with Data: Analyzing today's data for tomorrow's decision.
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubyaafrin/) 
