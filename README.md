@@ -1,7 +1,6 @@
 
-## Hi 👋, I'm Rubya Afrin
-### Passionate Data Analyst | Exploring the World of Data
-**srinathankolla**
+<h2 align="center">Hi 👋, I'm Rubya Afrin</h2>
+<h3 align="center">Passionate Data Analyst | Exploring the World of Data</h3>
 
 I'm skilled in:
 - **Python**
@@ -10,7 +9,7 @@ I'm skilled in:
 - **Excel**
 
 
-All of my projects are available at [my portfolio](https://codebasics.io/portfolio/Srinath-Ankolla).
+All of my projects are available at [my portfolio](https://github.com/RubyaAfrin?tab=repositories).
 
 - 🔭 I’m currently working on Machine Learning Projects with Data Visualization Tools
 - 🌱 I’m currently learning new Data Analytics Skills 
