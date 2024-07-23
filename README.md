@@ -2,7 +2,7 @@
 <h2 align="center">Hi 👋, I'm Rubya Afrin</h2>
 <h3 align="center">Passionate Data Analyst | Exploring the World of Data</h3>
 
-I'm skilled in:
+## I'm skilled in:
 - **Python**
 - **Power BI**
 - **SQL**
