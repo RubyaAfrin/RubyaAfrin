@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**RubyaAfrin/RubyaAfrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, I'm Rubya Afrin
+### Passionate Data Analyst | Exploring the World of Data
+**srinathankolla**
 
-Here are some ideas to get you started:
+I'm skilled in:
+- **Python**
+- **Power BI**
+- **SQL**
+- **Excel**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+All of my projects are available at [my portfolio](https://codebasics.io/portfolio/Srinath-Ankolla).
+
+- 🔭 I’m currently working on Machine Learning Projects with Data Visualization Tools
+- 🌱 I’m currently learning new Data Analytics Skills 
+
+## 📫 How to reach me
+**Email**: afrin.ku11@gmail.com
+
+## ⚡ Fun fact
+I'm a Mechanical Engineer turned Data Enthusiast. Once fueled engines, now fueling data analysis!
+
+## Connect with me
+[LinkedIn](https://www.linkedin.com/in/rubyaafrin/) 
+
+
+
+
