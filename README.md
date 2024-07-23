@@ -12,13 +12,17 @@ I'm skilled in:
 All of my projects are available at [my portfolio](https://github.com/RubyaAfrin?tab=repositories).
 
 - 🔭 I’m currently working on Machine Learning Projects with Data Visualization Tools
-- 🌱 I’m currently learning new Data Analytics Skills 
+- 🌱 I’m currently learning new Data Analytics Skills
+  
+## Looking for Job Opportunities 💼🔍
+I'm currently open to new opportunities in the field of data analysis. Feel free to reach out!
+
 
 ## 📫 How to reach me
 **Email**: afrin.ku11@gmail.com
 
 ## ⚡ Fun fact
-I'm a Mechanical Engineer turned Data Enthusiast. Once fueled engines, now fueling data analysis!
+I'm a Software Engineer turned Data Enthusiast. Once fueled hardware, now fueling data analysis!
 
 ## Connect with me
 [LinkedIn](https://www.linkedin.com/in/rubyaafrin/) 
