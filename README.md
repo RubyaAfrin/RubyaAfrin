@@ -5,8 +5,9 @@
 - **Python**
 - **Power BI**
 - **SQL**
-- **Machine Learning**
 - **Excel**
+- **Machine Learning**
+
 
 
 
