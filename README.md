@@ -11,7 +11,7 @@
 
 
 
-All of my projects are available at [my portfolio](https://github.com/RubyaAfrin?tab=repositories).
+All of my projects are available at [my portfolio](https://codebasics.io/portfolio/Rubya-Afrin).
 
 - 🔭 I’m currently working on Machine Learning Projects with Data Visualization Tools
 - 🌱 I’m currently learning new Data Analytics Skills
