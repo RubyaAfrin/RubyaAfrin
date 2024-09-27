@@ -44,7 +44,7 @@ I love to play with Data: Analyzing today's data for tomorrow's decision.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/> 
 </a>
 <a href="https://www.sql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="60" height="60"/> 
+    <img src="https://www.google.com/search?client=ms-google-coop&sca_esv=9f344bc6aa950c3c&sca_upv=1&cx=97cdbd58865c26d36&sxsrf=ADLYWIJsv3OaeoNqn-XuM8G0t-gt3_yJNg:1727406781629&q=sql+logo&udm=2&fbs=AEQNm0A633aOWMcGwo5EkodWqZWQxPIwflRJ4Hu3ORx2YNN2hMyLXvg7YutBzzEkH5jrqRZVNqsK5Bw5ddbAfF-taybgSSQV7ogjWSUk63vkbvL-w7wplyYljl--izGla_RJHQhdiGyVfedERY6-5VfW4M7BV3Ud5xzVSoH7Zzd0edbV8j9TFjV_MhEJQhb7WmcnaxJEZCsQrhOzFoPtN07fPg85l8T3FA&sa=X&ved=2ahUKEwiR4efck-KIAxWsDzQIHQZ5GD0QtKgLegQIIRAB&biw=2133&bih=1058&dpr=0.9#vhid=aVvvxjh1E4qsYM&vssid=mosaic" alt="SQL" width="60" height="60"/> 
 </a>
 
 
