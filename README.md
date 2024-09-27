@@ -39,7 +39,7 @@ I love to play with Data: Analyzing today's data for tomorrow's decision.
 </a>
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python" width="60" height="60"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/> 
 </a>
 
   
