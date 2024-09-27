@@ -44,8 +44,9 @@ I love to play with Data: Analyzing today's data for tomorrow's decision.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/> 
 </a>
 <a href="https://www.sql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.cleanpng.com/png-clip-art-microsoft-azure-sql-database-microsoft-sq-5981678/" alt="SQL" width="60" height="60"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/SQL.svg" alt="SQL" width="60" height="60"/> 
 </a>
+
 
 
   
