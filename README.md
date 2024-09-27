@@ -36,7 +36,7 @@ I love to play with Data: Analyzing today's data for tomorrow's decision.
     <img src="https://cdn.iconscout.com/icon/free/png-256/power-bi-282600.png" alt="Power BI" width="40" height="40"/> 
 </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.iconscout.com/icon/free/png-256/python-226047.png" alt="Python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
 </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.iconscout.com/icon/free/png-256/sql-282420.png" alt="SQL" width="40" height="40"/> 
