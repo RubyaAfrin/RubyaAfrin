@@ -38,6 +38,9 @@ I love to play with Data: Analyzing today's data for tomorrow's decision.
     <img src="https://logos-world.net/excel-logo/" alt="Excel" width="60" height="60"/> 
 </a>
 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python" width="60" height="60"/> 
+</a>
 
   
 </div>
