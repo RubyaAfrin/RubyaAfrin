@@ -32,7 +32,9 @@ I love to play with Data: Analyzing today's data for tomorrow's decision.
 
 <div style="display: inline_block"><br>
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/famous-brand-apps/100/_-04-512.png" alt="Excel" width="40" height="40"/> </a>
-  
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" alt="Power BI" width="40" height="40"/> 
+
 
   
 </div>
