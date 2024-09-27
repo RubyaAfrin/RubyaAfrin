@@ -26,12 +26,12 @@ I love to play with Data: Analyzing today's data for tomorrow's decision.
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubyaafrin/) 
 
-<br />
+
 
 
 
 ### :hammer_and_wrench: Languages and Tools:
-   <div>
+  <div style="display: inline_block"><br>
      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="40"height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL Server" alt="MSSQL Server" width="40" height="40"/>&nbsp;
@@ -44,7 +44,6 @@ I love to play with Data: Analyzing today's data for tomorrow's decision.
      <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40"height="40"/>&nbsp;
      <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" title="Windows" alt="Windows" width="40"height="40"/>&nbsp;
   
-   </div>
 
 
   
