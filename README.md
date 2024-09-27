@@ -35,7 +35,12 @@ I love to play with Data: Analyzing today's data for tomorrow's decision.
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" alt="Power BI" width="60" height="60"/> 
 
-
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/sql-282420.png" alt="SQL" width="40" height="40"/> 
+</a>
   
 </div>
 
