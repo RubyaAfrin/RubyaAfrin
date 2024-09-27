@@ -31,13 +31,12 @@ I love to play with Data: Analyzing today's data for tomorrow's decision.
 ### :hammer_and_wrench: Languages and Tools:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="excel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg">
+  <img align="center" alt="excel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg">
   <img align="center" alt="powerbi" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
-</div>
 
 <!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
