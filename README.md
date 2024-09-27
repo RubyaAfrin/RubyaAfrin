@@ -85,6 +85,12 @@ I love to play with Data: Analyzing today's data for tomorrow's decision.
 <details>
   <summary>:zap: Most Used Languages</summary>
 
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RubyaAfrin&show_icons=true&locale=en&layout=compact" alt="manikantanaidu1729" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RubyaAfrin&show_icons=true&locale=en" alt="manikantanaidu1729" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RubyaAfrin&" alt="manikantanaidu1729" /></p>
+
 <img align="left" alt="Sam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubyaAfrin&layout=compact&theme=tokyonight" />
 
 </details>  -->
