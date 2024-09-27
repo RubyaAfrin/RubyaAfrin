@@ -96,6 +96,6 @@ I love to play with Data: Analyzing today's data for tomorrow's decision.
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=RubyaAfrin&show_icons=true&locale=en&layout=compact" alt="manikantanaidu1729" />
 
 </div>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RubyaAfrin&" alt="manikantanaidu1729" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RubyaAfrin&" alt="manikantanaidu1729" /></p>
 
 
