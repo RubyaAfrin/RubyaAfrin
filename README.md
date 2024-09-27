@@ -57,7 +57,7 @@ I love to play with Data: Analyzing today's data for tomorrow's decision.
 
   <div align="center">
   <a href="https://github.com/awwal1999">
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RubyaAfrin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+ 
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RubyaAfrin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubyaAfrin&layout=compact&langs_count=7&theme=dracula"/>
@@ -65,14 +65,14 @@ I love to play with Data: Analyzing today's data for tomorrow's decision.
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Sam's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=mako-commits&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img align="left" alt="Sam's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=RubyaAfrin&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Sam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mako-commits&layout=compact&theme=tokyonight" />
+<img align="left" alt="Sam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubyaAfrin&layout=compact&theme=tokyonight" />
 
 </details>  -->
 
