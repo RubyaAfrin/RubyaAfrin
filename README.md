@@ -92,10 +92,10 @@ I love to play with Data: Analyzing today's data for tomorrow's decision.
 </details>  -->
 <div align="center">
   <a href="https://github.com/awwal1999">
-<p><img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=RubyaAfrin&show_icons=true&locale=en&layout=compact" alt="manikantanaidu1729" /></p>
+<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=RubyaAfrin&show_icons=true&locale=en&layout=compact" alt="manikantanaidu1729" />
 
-<p>&nbsp;<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=RubyaAfrin&show_icons=true&locale=en" alt="manikantanaidu1729" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RubyaAfrin&" alt="manikantanaidu1729" /></p>
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=RubyaAfrin&show_icons=true&locale=en" alt="manikantanaidu1729" />
 </div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RubyaAfrin&" alt="manikantanaidu1729" /></p>
+
 
