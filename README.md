@@ -90,7 +90,7 @@ I love to play with Data: Analyzing today's data for tomorrow's decision.
 <img align="left" alt="Sam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubyaAfrin&layout=compact&theme=tokyonight" />
 
 </details>  -->
-<div align="center">
+<div align="left">
   <a href="https://github.com/awwal1999">
     <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=RubyaAfrin&show_icons=true&locale=en" alt="manikantanaidu1729" />
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=RubyaAfrin&show_icons=true&locale=en&layout=compact" alt="manikantanaidu1729" />
