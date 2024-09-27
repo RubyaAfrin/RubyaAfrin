@@ -31,16 +31,19 @@ I love to play with Data: Analyzing today's data for tomorrow's decision.
 ### :hammer_and_wrench: Languages and Tools:
 
 <div style="display: inline_block"><br>
+  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftexcel/microsoftexcel-original.svg" alt="Excel" width="60" height="60"/> 
+</a>
+
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" alt="Power BI" width="60" height="60"/> <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> 
     </a>
-    <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://logos-world.net/excel-logo/" alt="Excel" width="60" height="60"/> 
-</a>
+
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/> 
 </a>
+
 
   
 </div>
