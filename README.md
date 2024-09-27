@@ -31,8 +31,7 @@ I love to play with Data: Analyzing today's data for tomorrow's decision.
 ### :hammer_and_wrench: Languages and Tools:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Excel" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/microsoftexcel.svg">
-  <img align="center" alt="excel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg">
+  <img align="center" alt="Excel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013_logo.svg">
   <img align="center" alt="powerbi" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
