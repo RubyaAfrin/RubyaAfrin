@@ -11,10 +11,7 @@ I’m a data-driven problem solver with a **Master’s in Software Engineering**
 - **Advanced Excel**
 
 
-
-
-
-All of my projects are available at [My Repo](https://github.com/RubyaAfrin?tab=repositories).
+📂 All of my projects are available at [My Repo](https://github.com/RubyaAfrin?tab=repositories).
 
 - 🔭 I’m currently exploring deep learning, cloud computing, and MLOps to enhance my data science expertise.
 - 🌱 
