@@ -14,7 +14,7 @@ I’m a data-driven problem solver with a **Master’s in Software Engineering**
 
 
 
-All of my projects are available at [my portfolio](https://codebasics.io/portfolio/Rubya-Afrin).
+All of my projects are available at [My Repo](https://github.com/RubyaAfrin?tab=repositories).
 
 - 🔭 I’m currently working on Machine Learning Projects with Data Visualization Tools
 - 🌱 I’m currently learning new Data Analytics Skills
