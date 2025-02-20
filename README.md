@@ -44,8 +44,8 @@ I’m a data-driven problem solver with a **Master’s in Software Engineering**
  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="70" height="70"/>
     </a>
- <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="70" height="70"/>
+     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/TensorFlow_logo.svg" alt="TensorFlow" width="70" height="70"/>
     </a>
 </div>
 
