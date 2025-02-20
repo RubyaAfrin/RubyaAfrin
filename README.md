@@ -13,8 +13,14 @@ I’m a data-driven problem solver with a **Master’s in Software Engineering**
 
 📂 All of my projects are available at [My Repo](https://github.com/RubyaAfrin?tab=repositories).
 
-- 🔭 I’m currently exploring deep learning, cloud computing, and MLOps to enhance my data science expertise.
-- 🌱 
+## 🚀 What I’m Working On 
+
+🔭 I’m currently exploring deep learning, cloud computing, and MLOps to enhance my data science expertise.  
+🤖 Experimenting with Generative AI and LLMs to understand their real-world applications.  
+☁️ Hands-on with Azure Databricks & Spark for big data processing.  
+📢 Sharing insights on data science through blogs and open-source projects.  
+🤝 Always open to collaborations in AI, automation, and data-driven solutions!  
+ 
 
 ## 📫 Connect with Me
 
