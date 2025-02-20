@@ -71,7 +71,7 @@ I’m a data-driven problem solver with a **Master’s in Software Engineering**
 
 
 
-<div align="left">
+<div align="left" style="margin-top: 20px;">
   <a href="https://github.com/RubyaAfrin">
     <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=RubyaAfrin&show_icons=true&locale=en" alt="RubyaAfrin" />
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=RubyaAfrin&show_icons=true&locale=en&layout=compact" alt="RubyaAfrin" />
