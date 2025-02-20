@@ -53,8 +53,8 @@ I’m a data-driven problem solver with a **Master’s in Software Engineering**
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="70" height="70"/>
     </a>
-<a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="70" height="70"/>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="70" height="70"/>
 </a>
 </div>
 
