@@ -53,8 +53,8 @@ I’m a data-driven problem solver with a **Master’s in Software Engineering**
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="70" height="70"/>
     </a>
-      <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" alt="Google Colab" width="70" height="70"/>
+    <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Colab_logo_2021.svg/768px-Google_Colab_logo_2021.svg.png" alt="Google Colab" width="70" height="70"/>
     </a>
 </div>
 
