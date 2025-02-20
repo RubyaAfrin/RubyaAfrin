@@ -3,7 +3,7 @@
 
 I’m a data-driven problem solver with a **Master’s in Software Engineering** from the **University of Calgary** and a deep passion for transforming raw data into meaningful insights. With expertise in **Data Science** and **Machine Learning**, I excel at uncovering patterns, optimizing processes, and driving data-informed decisions.
 
-## Skilled in:
+## Skilled in
 - **Python**
 - **SQL**
 - **Power BI**
