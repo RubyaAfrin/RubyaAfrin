@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋 I'm Rubya Afrin</h2>
 <h3 align="center">Passionate Data Analyst | Exploring the World of Data</h3>
 
-I’m a data-driven problem solver with a **Master’s in Software Engineering** from the University of Calgary and a deep passion for transforming raw data into meaningful insights. With expertise in **Data Science** and **Machine Learning**, I excel at uncovering patterns, optimizing processes, and driving data-informed decisions.
+I’m a data-driven problem solver with a **Master’s in Software Engineering** from the **University of Calgary** and a deep passion for transforming raw data into meaningful insights. With expertise in **Data Science** and **Machine Learning**, I excel at uncovering patterns, optimizing processes, and driving data-informed decisions.
 
 ## Skilled in:
 - **Python**
