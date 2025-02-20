@@ -31,11 +31,6 @@ I’m a data-driven problem solver with a **Master’s in Software Engineering**
 ## ⚡ Fun fact
 🎮 When I'm not working with data, you’ll find me immersed in video games or exploring new tech trends!  
 
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubyaafrin/) 
-
-
-
 
 
 ### :hammer_and_wrench: Languages and Tools:
