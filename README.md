@@ -35,8 +35,8 @@ I’m a data-driven problem solver with a **Master’s in Software Engineering**
 
 ## :hammer_and_wrench: Languages and Tools:
 <div style="display: inline-block; padding-top: 20px;">
-    <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Microsoft_Excel_Logo_2013.svg" alt="Excel" width="70" height="70"/>
+    <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Microsoft_Excel_Logo_2019.svg" alt="Excel" width="70" height="70"/>
     </a>
 </div>
 
