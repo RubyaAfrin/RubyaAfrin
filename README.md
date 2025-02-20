@@ -69,6 +69,7 @@ I’m a data-driven problem solver with a **Master’s in Software Engineering**
 
 
 
+<br><br> <!-- Adds extra space before the section -->
 
 
 <div align="left" style="margin-top: 20px;">
