@@ -16,12 +16,13 @@ I’m a data-driven problem solver with a **Master’s in Software Engineering**
 
 All of my projects are available at [My Repo](https://github.com/RubyaAfrin?tab=repositories).
 
-- 🔭 I’m currently working on Machine Learning Projects with Data Visualization Tools
-- 🌱 I’m currently learning new Data Analytics Skills
+- 🔭 I’m currently exploring deep learning, cloud computing, and MLOps to enhance my data science expertise.
+- 🌱 
 
 
 ## 📫 How to reach me
 **Email**: afrin.ku11@gmail.com
+**LinkedIn**: www.linkedin.com/in/rubyaafrin
 
 ## ⚡ Fun fact
 I love to play with Data: Analyzing today's data for tomorrow's decision.
