@@ -53,8 +53,8 @@ I’m a data-driven problem solver with a **Master’s in Software Engineering**
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="70" height="70"/>
     </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tableau_Logo.svg/1920px-Tableau_Logo.svg.png" alt="Tableau" width="70" height="70"/>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="70" height="70"/>
 </a>
 
 
