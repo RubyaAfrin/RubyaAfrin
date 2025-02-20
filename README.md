@@ -23,7 +23,7 @@ All of my projects are available at [My Repo](https://github.com/RubyaAfrin?tab=
 ## 📫 How to reach me
 **Email**: afrin.ku11@gmail.com
 
-**LinkedIn**: [Rubya Afrin](www.linkedin.com/in/rubyaafrin)
+**LinkedIn**: [Rubya Afrin](https://linkedin.com/in/rubyaafrin)
 
 ## ⚡ Fun fact
 I love to play with Data: Analyzing today's data for tomorrow's decision.
