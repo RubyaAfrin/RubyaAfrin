@@ -19,6 +19,13 @@ All of my projects are available at [My Repo](https://github.com/RubyaAfrin?tab=
 - 🔭 I’m currently exploring deep learning, cloud computing, and MLOps to enhance my data science expertise.
 - 🌱 
 
+## 📫 Connect with Me
+
+- 📧 **Email:** [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+- 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+
+
+
 
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:afrin.ku11@gmail.com) 
