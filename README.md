@@ -21,7 +21,7 @@ All of my projects are available at [My Repo](https://github.com/RubyaAfrin?tab=
 
 
 ## 📫 How to reach me
-**Email**: afrin.ku11@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:afrin.ku11@gmail.com) 
 
 **LinkedIn**: [Rubya Afrin](https://linkedin.com/in/rubyaafrin)
 
