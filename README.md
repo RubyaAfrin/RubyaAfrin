@@ -5,9 +5,9 @@ I’m a data-driven problem solver with a **Master’s in Software Engineering**
 
 ## Skilled in:
 - **Python**
-- - **SQL**
+- **SQL**
 - **Power BI**
-- - **Machine Learning**
+- **Machine Learning**
 - **Advanced Excel**
 
 
