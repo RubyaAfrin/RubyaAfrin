@@ -47,8 +47,8 @@ I’m a data-driven problem solver with a **Master’s in Software Engineering**
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="70" height="70"/>
     </a>
- <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="70" height="70"/>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/PyTorch_logo.png" alt="PyTorch" width="70" height="70"/>
     </a>
 </div>
 
