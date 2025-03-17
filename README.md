@@ -24,8 +24,8 @@ I’m a data-driven problem solver with a **Master’s in Software Engineering**
 
 ## 📫 Connect with Me
 
-- 📧 **Email:** afrin.ku11@gmail.com 
-- 💼 **LinkedIn**: [Rubya Afrin](https://linkedin.com/in/rubyaafrin)
+📧 **Email:** afrin.ku11@gmail.com 
+💼 **LinkedIn**: [Rubya Afrin](https://linkedin.com/in/rubyaafrin)
 
 
 ## ⚡ Fun fact
