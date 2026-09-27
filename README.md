@@ -89,12 +89,6 @@ I enjoy projects that start with messy, real-world data and end with a clear ans
 <br><br> <!-- Adds extra space before the section -->
 
 
-<div align="left" style="margin-top: 20px;">
-  <a href="https://github.com/RubyaAfrin">
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=RubyaAfrin&show_icons=true&locale=en" alt="RubyaAfrin" />
-<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=RubyaAfrin&show_icons=true&locale=en&layout=compact" alt="RubyaAfrin" />
 
-</div>
-<p><img aheight="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RubyaAfrin&" alt="RubyaAfrin" /></p>
 
 
