@@ -1,7 +1,11 @@
 <h2 align="center">Hi 👋 I'm Rubya Afrin</h2>
 <h3 align="center">Passionate Data Scientist | AI & ML Engineer | Exploring the World of Data</h3>
 
-I’m a data-driven problem solver with a **Master’s in Software Engineering** from the **University of Calgary** and a deep passion for transforming raw data into meaningful insights. With expertise in **Data Science** and **Machine Learning**, I excel at uncovering patterns, optimizing processes, and driving data-informed decisions.
+I’m a data-driven problem solver with a **Master’s in Software Engineering** from the **University of Calgary** and a deep passion for transforming raw data into meaningful insights. With expertise in **Data Science** and **Machine Learning**, I excel at uncovering patterns, optimizing processes, and driving data-informed decisions. Most recently, as an IT Business Analyst at Bow Valley College, I benchmarked locally hosted LLMs and analyzed business processes for automation.
+
+I enjoy projects that start with messy, real-world data and end with a clear answer.
+
+🔎 Open to Data Scientist, Machine Learning Engineer, and Data Analyst roles in Calgary and across Canada. Authorized to work in Canada.
 
 ## Skilled in
 - **Python**
@@ -9,6 +13,8 @@ I’m a data-driven problem solver with a **Master’s in Software Engineering**
 - **Power BI**
 - **Machine Learning**
 - **Advanced Excel**
+
+
 
 
 📂 All of my projects are available at [My Repo](https://github.com/RubyaAfrin?tab=repositories).
