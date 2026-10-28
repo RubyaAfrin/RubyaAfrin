@@ -41,7 +41,6 @@ I enjoy projects that start with messy, real-world data and end with a clear ans
 
 🔭 I’m currently exploring **Azure Databricks** & **Spark** for big data processing.  
 🤖 Experimenting with **Generative AI** and **LLMs** to understand their real-world applications.  
-☁️ Hands-on with **Azure** Databricks & **Spark** for big data processing.  
 📢 Sharing insights on data science through blogs and open-source projects.  
 🤝 Always open to collaborations in **AI**, **automation**, and **data-driven solutions**!  
  
